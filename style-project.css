@@ -1,0 +1,32 @@
+BODY{BACKGROUND-COLOR:LIGHTBLUE}
+H1{TEXT-ALIGN:CENTER;}
+H2{FONT-SIZE:25PX;
+font-style: italic}
+H3{FONT-SIZE:20PX;
+ font-style: NORMAL;}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li{
+  border: 2px solid blue;
+  display: inline-block;
+  
+  margin: 0.5rem;
+}
+
+a {
+  text-decoration: none;
+  background-color: PINK;
+  color: #600;
+  padding: 0.5rem;
+  display: block;
+}
+a:hover {
+  background-color: #600;
+  color: #ff3333;
+}
+ul{
+text-align:center
+}

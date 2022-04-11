@@ -1,0 +1,98 @@
+body {
+  background-color: lightblue;
+}
+h1 {
+color: #000000;
+font-size: 3em;
+padding-top: 30px;
+width: 100%;
+text-align: center;
+}
+
+h2 {
+border-bottom: 1px solid rgba(255, 255, 255, 0.5);
+color: rgba(255, 255, 255, 0.5);
+font-weight: 100;
+font-size: 22px;
+line-height: 24px;
+padding-bottom: 30px;
+text-align: left;
+width: 70%;
+}
+
+p {
+color: red;
+line-height: 1.3em;
+text-align: left;
+width: 100%;
+font-size: 20px
+}
+
+p{font-weight:bold}
+
+h4{color:rgb(60, 60, 60);
+text-indent: 10px;
+letter-spacing: 2px;
+}
+
+.caption {
+display: block;
+font-family: 'Playfair Display', serif;
+font-size: 30px;
+font-style: italic;
+line-height: 34px;
+margin-left: 20px;
+padding: 10px;
+position: relative;
+text-align: center;
+top: 50%;
+width: 90%;
+color:rgb(106, 90, 205)
+}
+
+.content {
+padding: 40px;
+}
+
+.image {
+background-image: url("https://gimg2.baidu.com/image_search/src=http%3A%2F%2Finews.gtimg.com%2Fnewsapp_match%2F0%2F10405164172%2F0.jpg&refer=http%3A%2F%2Finews.gtimg.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1651631001&t=6d6416330952418791ed4203d026b1fc");
+
+background-size: contain;
+background-position: center;
+height: 1000px;
+}
+
+.writer-img {
+-webkit-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+-moz-box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
+float: left;
+width: 150px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li{
+  border: 2px solid blue;
+  display: inline-block;
+  
+  margin: 0.5rem;
+}
+
+a {
+  text-decoration: none;
+  background-color: PINK;
+  color: #600;
+  padding: 0.5rem;
+  display: block;
+}
+a:hover {
+  background-color: #600;
+  color: #ff3333;
+}
+
+ul{
+text-align:center
+}
