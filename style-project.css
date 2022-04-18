@@ -30,3 +30,28 @@ a:hover {
 ul{
 text-align:center
 }
+
+caption{font-weight: bold;
+font-size: 24px;
+text-align: left;
+color: orange;
+text-align: center;}
+
+body{font-family: sans-serif;}
+
+th,td{border:1px solid brown;
+padding:8px;}
+
+table{border-collapse: collapse;
+border: 5px solid;
+text-align: center;
+vertical-align: middle;
+background-color: pink;}
+
+thead th {width: 25%;}
+
+.cell-highlight{background-color: orange;
+font-weight: bold;}
+
+th{color: black;}/*The first line is their English and Chinese names
+*/
